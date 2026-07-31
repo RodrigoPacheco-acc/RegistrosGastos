@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">RegistroGastos</string>
+    <string name="title_activity_gasto_view">GastoViewActivity</string>
+</resources>
